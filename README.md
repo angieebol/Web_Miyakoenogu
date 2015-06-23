@@ -1,2 +1,2 @@
 # Web_Miyakoenogu
-Japanese Ink Website Tutorial-Miyakoenogu
+Japanese Ink Website-Miyakoenogu
